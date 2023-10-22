@@ -1,4 +1,4 @@
-![image](https://github.com/tahazuberi/tahazuberi/assets/102304556/479204eb-6dd4-42e1-82f4-d7f6b8b43510)![image](https://github.com/tahazuberi/tahazuberi/assets/102304556/da40651b-549d-44c7-813c-7b7a3f100ba1) Hi there, I'm Muhammad Taha Ali Zuberi 👋
+Hi there, I'm Muhammad Taha Ali Zuberi 👋
 
 ### :woman_technologist: About Me :
 
