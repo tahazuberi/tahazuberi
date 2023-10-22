@@ -40,8 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=tahazuberi
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahazuberi&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazuberi&layout=compact&theme=vision-friendly-dark)](https://github.com/tahazuberi/github-readme-stats)
